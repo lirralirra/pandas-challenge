@@ -1,7 +1,5 @@
 # pandas-challenge
 
-Reports 
-
 This analysis examines the impact of school size, budget, and type on student performance in math and reading.
 
 1. Overall Metrics:
