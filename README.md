@@ -19,5 +19,4 @@ Beyond this range, increased spending correlates with lower academic performance
 4. School Size and Performance:
 Smaller schools tend to have higher average scores compared to larger schools, indicating a potential benefit of lower student-to-teacher ratios.
 
-5. 
-Independent schools generally demonstrate higher passing rates and slightly elevated scores compared to other school types.
+5.Independent schools generally demonstrate higher passing rates and slightly elevated scores compared to other school types.
